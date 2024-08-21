@@ -1,0 +1,10 @@
+/.test
+/.idea
+*.pyc
+__pycache__
+.pytest_cache
+/*/*.pyc
+/*/__pycache__
+/*/.pytest_cache
+/__pycache__
+/.git
